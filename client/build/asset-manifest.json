@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec8bfa75.css",
+    "main.js": "/static/js/main.bad01015.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/Profile.jpg": "/static/media/Profile.2684771dd64fdfdefb1e.jpg",
+    "static/media/Touqeer2.jpg": "/static/media/Touqeer2.55c6b74217bf9ddf5c33.jpg",
+    "static/media/Weather App.png": "/static/media/Weather App.4f8a255d14952879a66b.png",
+    "static/media/Razorpay Clone.png": "/static/media/Razorpay Clone.d2d9f9c26ceb99d4d3d4.png",
+    "static/media/Shop App Redux.png": "/static/media/Shop App Redux.4fbc2dda471ea9a04b3f.png",
+    "static/media/DiscordClone.png": "/static/media/DiscordClone.f4f0cbee573a3c93501f.png",
+    "static/media/TouqeerResume.pdf": "/static/media/TouqeerResume.912684af2c747de14dbb.pdf",
+    "static/media/Contact Us.png": "/static/media/Contact Us.2400d8edc8dcf53d38e0.png",
+    "index.html": "/index.html",
+    "main.ec8bfa75.css.map": "/static/css/main.ec8bfa75.css.map",
+    "main.bad01015.js.map": "/static/js/main.bad01015.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec8bfa75.css",
+    "static/js/main.bad01015.js"
+  ]
+}
